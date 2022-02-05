@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MahdiGhorbani98/MahdiGhorbani98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Mahdi Ghorbani</h1>
+<h3 align="center">A Junior Frontend Engineer</h3>
+
+🌱 I design lively websites
+
+
+🛠 Tools & Techs:
