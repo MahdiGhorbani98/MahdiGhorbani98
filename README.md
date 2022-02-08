@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h2 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Mahdi Ghorbani</h1>
 <h3 align="center">A Junior Frontend Engineer</h3>
 
-🌱 I design lively websites
+🌱 I design lively websites </br>
+📄 If you would like to know more about me, please look at my [LinkedIn](https://www.linkedin.com/in/mahdi-ghorbani1998/) page.</br></br></br>
 
 
 🛠 Tools & Techs:</br></br>
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </details>
 
-<div style="text-align: center">
+<!-- <div style="text-align: center">
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiGhorbani98">
     </div>
-</div>
+</div> -->
