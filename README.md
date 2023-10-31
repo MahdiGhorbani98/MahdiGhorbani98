@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Mahdi Ghorbani</h1>
-<h3 align="center">A Junior Frontend Engineer</h3>
+<h3 align="center">A Frontend Engineer</h3>
 
 🌱 I design lively websites </br>
 📄 If you would like to know more about me, please look at my [LinkedIn](https://www.linkedin.com/in/mahdi-ghorbani1998/) page.</br></br></br>
